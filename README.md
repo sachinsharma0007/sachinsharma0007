@@ -1,1 +1,29 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,100:3b0d6b&height=200&section=header&text=Sachin+Sharma&fontSize=40)
+# Header Banner
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=250&section=header&text=Sachin%20Kumar&fontSize=60&fontColor=ffffff&desc=Blockchain%20Developer%20|%20Smart%20Contracts%20|%20Web3%20|%20DeFi%20|%20dApps&descAlignY=70)
+
+## 👋 About Me
+
+Open to Blockchain Roles
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sachin-sharma-1b31243bb/))
+
+[![Email](https://img.shields.io/badge/Email-Contact-purple?style=for-the-badge&logo=gmail)](mailto:sachinx1322@gmail.com)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=sachinsharma0007&style=for-the-badge)
+
+## 💻 Tech Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinsharma0007&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsharma0007&layout=compact)
