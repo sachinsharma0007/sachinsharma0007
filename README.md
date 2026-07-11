@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=250&section=header&text=Sachin%20Kumar&fontSize=60&fontColor=ffffff&desc=Blockchain%20Developer%20|%20Smart%20Contracts%20|%20Web3%20|%20DeFi%20|%20dApps&descAlignY=70)
 
-## 👋 About Me
+[## 👋 About Me
 
-Open to Blockchain Roles
+Open to Blockchain Roles](https://readme-typing-svg.demolab.com/demo/?font=Stack+Sans+Text&duration=3000&pause=700&lines=Open+to+blockchain+roles+--;%E2%97%8F+Smart+Contracts+++%E2%97%8F+ERC20+++%E2%97%8F+NFT;%E2%97%8F+Solidity+++%E2%97%8F+Web3+++%E2%97%8F+Defi+)
 
 ## 🌐 Connect With Me
 
