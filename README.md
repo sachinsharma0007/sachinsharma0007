@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,100:88d3ce&height=250&section=header&text=Sachin%20Kumar&fontSize=60&fontColor=ffffff&desc=Blockchain%20Developer%20|%20Smart%20Contracts%20|%20Web3%20|%20DeFi%20|%20dApps&descAlignY=70)
 
-[## 👋 About Me
-
-Open to Blockchain Roles](https://readme-typing-svg.demolab.com/demo/?font=Stack+Sans+Text&duration=3000&pause=700&lines=Open+to+blockchain+roles+--;%E2%97%8F+Smart+Contracts+++%E2%97%8F+ERC20+++%E2%97%8F+NFT;%E2%97%8F+Solidity+++%E2%97%8F+Web3+++%E2%97%8F+Defi+)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stack+Sans+Text&duration=3000&pause=700&width=435&lines=Open+to+blockchain+roles+--;%E2%97%8F+Smart+Contracts+++%E2%97%8F+ERC20+++%E2%97%8F+NFT;%E2%97%8F+Solidity+++%E2%97%8F+Web3+++%E2%97%8F+Defi+)](https://git.io/typing-svg)
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sachin-sharma-1b31243bb/))
