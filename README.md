@@ -2,9 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Stack+Sans+Text&duration=3000&pause=700&color=B882F7&center=true&vCenter=true&width=435&lines=Open+to+blockchain+roles+--;%E2%97%8F+Smart+Contracts+++%E2%97%8F+ERC20+++%E2%97%8F+NFT;%E2%97%8F+Solidity+++%E2%97%8F+Web3+++%E2%97%8F+Defi+)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/sachin-sharma-1b31243bb/](https://www.linkedin.com/in/sachin-sharma-1b31243bb/))
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-sharma-1b31243bb/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Profile-555555?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-[![Email](https://img.shields.io/badge/Email-Contact-purple?style=for-the-badge&logo=gmail)](mailto:sachinx1322@gmail.com)
+  <img src="https://img.shields.io/badge/SACHIN-KUMAR-1E63D5?style=for-the-badge">
+
+  <a href="mailto:sachinx1322@email.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact-555555?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <img src="https://img.shields.io/badge/sachin@email.com-7C3AED?style=for-the-badge">
+</p>
 
 
 ## 💻 Tech Stack
