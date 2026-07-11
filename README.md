@@ -4,16 +4,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-sharma-1b31243bb/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Profile-555555?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LINKEDIN-5A5A5A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <img src="https://img.shields.io/badge/SACHIN-KUMAR-1E63D5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SACHIN%20KUMAR-2563EB?style=for-the-badge" />
 
   <a href="mailto:sachinx1322@email.com">
-    <img src="https://img.shields.io/badge/EMAIL-Contact-555555?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/EMAIL-5A5A5A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <img src="https://img.shields.io/badge/sachin@email.com-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SACHIN%40EMAIL.COM-7C3AED?style=for-the-badge" />
 </p>
 
 
