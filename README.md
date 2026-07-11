@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Stack+Sans+Text&duration=3000&pause=700&color=B882F7&center=true&vCenter=true&width=435&lines=Open+to+blockchain+roles+--;%E2%97%8F+Smart+Contracts+++%E2%97%8F+ERC20+++%E2%97%8F+NFT;%E2%97%8F+Solidity+++%E2%97%8F+Web3+++%E2%97%8F+Defi+)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sachin-sharma-1b31243bb/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/sachin-sharma-1b31243bb/](https://www.linkedin.com/in/sachin-sharma-1b31243bb/))
 
 [![Email](https://img.shields.io/badge/Email-Contact-purple?style=for-the-badge&logo=gmail)](mailto:sachinx1322@gmail.com)
 
