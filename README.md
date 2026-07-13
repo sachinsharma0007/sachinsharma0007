@@ -4,19 +4,15 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/sachin-sharma-1b31243bb/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/sachin-sharma-1b31243bb/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/SACHIN%20KUMAR-2563EB?style=for-the-badge" />
-  </a>
+<a href="https://www.linkedin.com/in/sachin-sharma-1b31243bb/?skipRedirect=true">
+<img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/sachin-sharma-1b31243bb/?skipRedirect=true">
+<img src="https://img.shields.io/badge/SACHIN%20KUMAR-2563EB?style=for-the-badge" /></a>
 
-  <a href="mailto:sachinx1304@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:sachinx1304@gmail.com">
-    <img src="https://img.shields.io/badge/SACHINX1304%40GMAIL.COM-7C3AED?style=for-the-badge" />
-  </a>
+<a href="mailto:sachinx1304@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sachinx1304@gmail.com">
+<img src="https://img.shields.io/badge/SACHINX1304%40GMAIL.COM-7C3AED?style=for-the-badge" /></a>
 
 </p>
 
