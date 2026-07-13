@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Stack+Sans+Text&duration=3000&pause=700&color=B882F7&center=true&vCenter=true&width=435&lines=Open+to+blockchain+roles+--;%E2%97%8F+Smart+Contracts+++%E2%97%8F+ERC20+++%E2%97%8F+NFT;%E2%97%8F+Solidity+++%E2%97%8F+Web3+++%E2%97%8F+Defi+)](https://git.io/typing-svg)
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge"/></a><img src="https://img.shields.io/badge/SACHIN%20KUMAR-2563EB?style=for-the-badge"/>       <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white"/></a><img src="https://img.shields.io/badge/SACHIN%40EMAIL.COM-7C3AED?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/sachin-sharma-1b31243bb/?skipRedirect=true"><img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge"/></a><img src="https://img.shields.io/badge/SACHIN%20KUMAR-2563EB?style=for-the-badge"/>       <a href="mailto:sachinx1304@gmail.com"><img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white"/></a><img src="https://img.shields.io/badge/SACHIN%40EMAIL.COM-7C3AED?style=for-the-badge"/>
 </p>
 
 
