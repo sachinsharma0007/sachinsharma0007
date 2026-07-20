@@ -20,9 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinsharma0007&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsharma0007&layout=compact)
 
 
