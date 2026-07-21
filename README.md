@@ -19,6 +19,67 @@
 <p dir="auto">Blockchain Developer building decentralised solutions with Solidity, Web3, and smart contracts. Open to Blockchain roles — </p>
 </blockquote>
 
+<div class="highlight highlight-source-solidity notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c">// SPDX-License-Identifier: MIT</span>
+<span class="pl-k">pragma solidity</span> <span class="pl-k">^</span><span class="pl-c1">0.8.24</span>;
+
+<span class="pl-k">contract</span> <span class="pl-en">AayushKumar</span> {
+
+    <span class="pl-c1">string</span> <span class="pl-k">public </span>name       <span class="pl-k">=</span> <span class="pl-s">"<span class="pl-s">Aayush Kumar</span>"</span>;
+    <span class="pl-c1">string</span> <span class="pl-k">public </span>role       <span class="pl-k">=</span> <span class="pl-s">"<span class="pl-s">Blockchain Developer</span>"</span>;
+    <span class="pl-c1">string</span> <span class="pl-k">public </span>location   <span class="pl-k">=</span> <span class="pl-s">"<span class="pl-s">Mohali, Punjab, India</span>"</span>;
+    <span class="pl-c1">string</span> <span class="pl-k">public </span>college    <span class="pl-k">=</span> <span class="pl-s">"<span class="pl-s">Chandigarh Group of Colleges, Landran</span>"</span>;
+    <span class="pl-c1">string</span> <span class="pl-k">public </span>email      <span class="pl-k">=</span> <span class="pl-s">"<span class="pl-s">rajaayush42@gmail.com</span>"</span>;
+    <span class="pl-c1">string</span> <span class="pl-k">public </span>status     <span class="pl-k">=</span> <span class="pl-s">"<span class="pl-s">Open to Blockchain Roles</span>"</span>;
+
+    <span class="pl-c1">string</span>[] <span class="pl-k">public </span>currentlyBuilding <span class="pl-k">=</span> [
+        <span class="pl-s">"<span class="pl-s">Metaverse Flat Marketplace  — property tokenization on-chain</span>"</span>,
+        <span class="pl-s">"<span class="pl-s">Ayu Wallet                  — non-custodial ETH wallet + DeFi lending</span>"</span>
+    ];
+
+    <span class="pl-c1">string</span>[] <span class="pl-k">public </span>techStack <span class="pl-k">=</span> [
+        <span class="pl-s">"<span class="pl-s">Solidity</span>"</span>, <span class="pl-s">"<span class="pl-s">Web3.js</span>"</span>, <span class="pl-s">"<span class="pl-s">ethers.js</span>"</span>, <span class="pl-s">"<span class="pl-s">MetaMask</span>"</span>,
+        <span class="pl-s">"<span class="pl-s">Hardhat</span>"</span>, <span class="pl-s">"<span class="pl-s">Chainlink</span>"</span>, <span class="pl-s">"<span class="pl-s">OpenZeppelin</span>"</span>,
+        <span class="pl-s">"<span class="pl-s">ERC-20</span>"</span>, <span class="pl-s">"<span class="pl-s">ERC-721</span>"</span>, <span class="pl-s">"<span class="pl-s">ERC-1155</span>"</span>,
+        <span class="pl-s">"<span class="pl-s">Java</span>"</span>, <span class="pl-s">"<span class="pl-s">Spring Boot</span>"</span>, <span class="pl-s">"<span class="pl-s">Node.js</span>"</span>, <span class="pl-s">"<span class="pl-s">MongoDB</span>"</span>, <span class="pl-s">"<span class="pl-s">MySQL</span>"</span>
+    ];
+
+    <span class="pl-c1">string</span>[] <span class="pl-k">public </span>currentlyLearning <span class="pl-k">=</span> [
+        <span class="pl-s">"<span class="pl-s">Spring AI</span>"</span>, <span class="pl-s">"<span class="pl-s">Advanced DeFi protocols</span>"</span>, <span class="pl-s">"<span class="pl-s">Chainlink price feeds</span>"</span>
+    ];
+
+    <span class="pl-k">function<span class="pl-en"> connect</span></span>() <span class="pl-k">external</span> <span class="pl-k">pure</span> <span class="pl-k">returns</span> (<span class="pl-c1">string</span> <span class="pl-k">memory</span>) {
+        <span class="pl-k">return</span> <span class="pl-s">"<span class="pl-s">Let's build on-chain. Open to work.</span>"</span>;
+    }
+}</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy code to clipboard" class="ClipboardButton btn js-clipboard-copy m-2 p-0" data-copy-feedback="Copied!" data-tooltip-direction="w" value="// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.24;
+
+contract AayushKumar {
+
+    string public name       = &quot;Sachin Kumar&quot;;
+    string public role       = &quot;Blockchain Developer&quot;;
+    string public location   = &quot;Mohali, Punjab, India&quot;;
+    string public email      = &quot;sachinx1322@gmail.com&quot;;
+    string public status     = &quot;Open to Blockchain Roles&quot;;
+    
+
+    string[] public techStack = [
+        &quot;Solidity&quot;, &quot;Web3.js&quot;, &quot;ethers.js&quot;, &quot;MetaMask&quot;,
+        &quot;Hardhat&quot;, &quot;Chainlink&quot;, &quot;OpenZeppelin&quot;,
+        &quot;ERC-20&quot;, &quot;ERC-721&quot;, &quot;ERC-1155&quot;,
+        &quot;Java&quot;, &quot;Spring Boot&quot;, &quot;Node.js&quot;, &quot;MongoDB&quot;, &quot;MySQL&quot;
+    ];
+
+    string[] public currentlyLearning = [
+        &quot;Spring AI&quot;, &quot;Advanced DeFi protocols&quot;, &quot;Chainlink price feeds&quot;
+    ];
+
+    function connect() external pure returns (string memory) {
+        return &quot;Let's build on-chain. Open to work.&quot;;
+    }
+
+  </div></div>
+
 
 ## 💻 Tech Stack
 
